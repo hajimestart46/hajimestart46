@@ -2,9 +2,9 @@
 <h3>A junior programmer struggling to find the right way to learn, trying hard to improve. Also studying English along the way.</h3>
 <h3>プログラミングスキルがド底のド新米のプログラマーで、ちゃんと技術を磨き上げに目指してきます。英語勉強中...（韓国語のほう勉強する気がありますが💦）</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajimestart46&label=Profile%20views&color=0e75b6&style=onedark" alt="hajimestart46" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajimestart46&label=Profile%20views&color=0e75b6&style=flat" alt="hajimestart46" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajimestart46" alt="hajimestart46" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajimestart46&theme="onedark" alt="hajimestart46" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
   
